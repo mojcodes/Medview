@@ -1,4 +1,4 @@
-# Medview+ by MOJ
+# Medview+
 
 A Hospital Management System built following the OWASP Secure Design Principles with the integration of captcha and 2FA email OTP.
 
