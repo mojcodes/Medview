@@ -1,14 +1,13 @@
-# Medview
-# By MOJ
-Hospital Management System built following the OWASP Secure Design Principles with the Integration of captcha and email OTP 2FA verifications.
+# Medview+ by MOJ
+
+A Hospital Management System built following the OWASP Secure Design Principles with the integration of captcha and 2FA email OTP.
 
 INSTALLATION & SETUP
+1. Setup email parameters in mail.php file
+2. Host project on Xammp, create database 'medview+' and import medview.sql.
+3. Run on localhost/your_directory_name
 
-Setup email parameters in mail.php file
-Host project on Xammp, create database 'medview+' and import medview.sql.
-Run on localhost/your_directory_name
-
-
+SCREENSHOTS
 1. Home page
 
 ![1](https://user-images.githubusercontent.com/43385016/166294368-cec1c705-0d1f-4ac8-8902-e53c89ebae70.png)
